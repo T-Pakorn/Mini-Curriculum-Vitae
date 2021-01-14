@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use 
+Markdown is a lightweight
 
 ```markdown
 Syntax highlighted code block
