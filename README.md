@@ -5,5 +5,5 @@ Lab 01 : GitHub<br/>
 by 62010694 Pakorn Thanaprachanon<br/>
 <br/>
 
-[Access the web page by click here](https://t-pakorn.github.io/Mini-Curriculum-Vitae/)
+[Access the web page by click here](https://t-pakorn.github.io/Mini_Curriculum_Vitae/)
 
